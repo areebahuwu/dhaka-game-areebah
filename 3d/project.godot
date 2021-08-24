@@ -16,6 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="DHAKA GAME"
+run/main_scene="res://object.tscn"
 config/icon="res://dhaka_game_studio_logo.png"
 
 [display]
